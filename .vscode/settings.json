@@ -1,7 +1,0 @@
-{
-  "zenMode.fullScreen": false,
-  "prettier.useTabs": true,
-  "editor.tabSize": 2,
-  "workbench.colorTheme": "Default Dark+",
-  "workbench.preferredDarkColorTheme": "Visual Studio Dark"
-}
