@@ -53,11 +53,11 @@
       background: linear-gradient(90deg, blue 33%, white 33%, white 67%, red 67%);
     }
     .china {
-      border-radius: 0%;
-      background-image: url(https://www.pngitem.com/pimgs/m/111-1111974_gold-star-png-download-gold-star-logo-png.png);
-      background-color: red;
-      background-size: cover;
-      background-position: 30 px center, bottom right;
+      width: 300px;
+      height: 200px;
+      
+       background-image: url(./https://www.pngitem.com/pimgs/m/111-1111974_gold-star-png-download-gold-star-logo-png.png);
+          
     }
   
 
